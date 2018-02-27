@@ -1,7 +1,7 @@
 # Maintainer: Eric Vidal <eric@obarun.org>
 
 pkgname=mdevd
-pkgver=0.0.1.0
+pkgver=0.1.0.1
 pkgrel=1
 pkgdesc="a mdev-compatible hotplug manager daemon"
 arch=(x86_64)
